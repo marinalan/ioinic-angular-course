@@ -1,0 +1,23 @@
+h1 {
+    font-size: 18px;
+    border: 1px solid var(--ion-color-primary);
+    padding: 8px;
+    margin-bottom: 4px;
+    border-radius: 5px;
+    color: var(--ion-color-primary); 
+}
+.offer-details {
+    display: flex;
+    align-items: center;
+
+    .space-left {
+        margin-left: 5px;
+    }
+
+    span {
+        margin: 0 15px;
+    }
+    ion-text {
+        margin-top: 4px;
+    }
+}

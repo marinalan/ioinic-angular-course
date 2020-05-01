@@ -16,6 +16,7 @@ $RECYCLE.BIN/
 *.log
 log.txt
 npm-debug.log*
+package-lock.json
 
 /.idea
 /.ionic
@@ -23,9 +24,12 @@ npm-debug.log*
 /.sourcemaps
 /.versions
 /.vscode
+/.firebaserc
 /coverage
 /dist
 /node_modules
 /platforms
 /plugins
 /www
+/android
+/src/environments
